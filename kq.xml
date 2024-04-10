@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+    <student>
+        <name>nhi</name>
+        <age>18</age>
+        <isPrime>false</isPrime>
+    </student>
+    <student>
+        <name>thuan</name>
+        <age>19</age>
+        <isPrime>true</isPrime>
+    </student>
+</students>
